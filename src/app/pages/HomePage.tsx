@@ -60,7 +60,7 @@ export function HomePage() {
           >
             <div className="inline-flex items-center gap-2 bg-primary/10 px-4 py-2 rounded-full mb-6">
               <Sprout className="size-5 text-primary" />
-              <span className="text-sm font-medium text-primary">Smart Gardening Made Easy</span>
+              <span className="text-sm font-medium text-primary">Tree Sorter Made Easy</span>
             </div>
             
             <h1 className="text-5xl md:text-6xl font-bold mb-6 text-foreground">
@@ -188,7 +188,7 @@ export function HomePage() {
         {/* Why Use Section */}
         <section className="mb-16">
           <div className="text-center mb-12">
-            <h2 className="text-3xl font-bold mb-3 text-foreground">Why Use Smart Garden Assistant?</h2>
+            <h2 className="text-3xl font-bold mb-3 text-foreground">Why Use Tree Sorter?</h2>
             <p className="text-muted-foreground max-w-2xl mx-auto">
               Everything you need to grow a thriving garden, all in one place
             </p>

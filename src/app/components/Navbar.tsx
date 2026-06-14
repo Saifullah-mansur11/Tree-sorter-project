@@ -26,7 +26,7 @@ export function Navbar() {
               <Leaf className="size-6 text-primary-foreground" />
             </div>
             <span className="text-lg font-semibold text-foreground hidden sm:inline-block">
-              Smart Garden
+              Tree Sorter
             </span>
           </Link>
 

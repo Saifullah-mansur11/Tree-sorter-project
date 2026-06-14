@@ -1,4 +1,4 @@
-# Smart Gardening Assistant App
+# Tree Sorter
 
 ## Running the code
 
